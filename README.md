@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Frank Gu</h1>
 <h3 align="center">A second year engineering student from China</h3>
-<image align=“right” alt=“Coding” width=400 src=“https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSb61wIsDNIZc5hmFzLqBCxjMJLJEMwe-qLA&usqp=CAU”>
+<image align=“right” alt=“Coding” width=400 src=“[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSb61wIsDNIZc5hmFzLqBCxjMJLJEMwe-qLA&usqp=CAU](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbl9BV0lVUmk3VWd2Ym5EY0tTNzh6LXMyWlg4d3xBQ3Jtc0tsRTNOSGxLZDVHaFdtMHZBdHItNHV2UU9OOWxKSmZGNm81VmRBSFFCeEdkMk9PRmJnLW02N1M5eEhKd1JYYThXaTJ1WW1XWGNmRklFV2UySEpEQ2lHWlpLVHJEUkRVVmRUcDRncE5SczBQUks2Qkx5MA&q=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F1162077%2Fscreenshots%2F3848914%2Fprogrammer.gif&v=G-EGDH50hGE)”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=frank-gu-81&label=Profile%20views&color=0e75b6&style=flat" alt="frank-gu-81" /> </p>
 
