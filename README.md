@@ -17,7 +17,6 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/shaopeng-frank-gu-73b369221/](https://www.linkedin.com/in/shaopeng-frank-gu-73b369221/)
 
-- ⚡ Fun fact **I'm pretty good at 2048 and Subway Surf 😃**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
