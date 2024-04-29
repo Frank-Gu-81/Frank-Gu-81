@@ -1,5 +1,6 @@
-![MasterHead]
-[(https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif" alt="Masthead">
+</p>
 
 <h1 align="center">Hi 👋, I'm Frank Gu</h1>
 <h3 align="center">A third year engineering student at Northwestern University</h3>
