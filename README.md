@@ -2,21 +2,15 @@
   <img src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif" alt="Masthead">
 </p>
 
-<h1 align="center">Hi 👋, I'm Frank Gu</h1>
-<h3 align="center">A third year engineering student at Northwestern University</h3>
+<h1 align="center">Hi 👋, I'm Frank</h1>
+<h3 align="center">A third year engineering student</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=frank-gu-81&label=Profile%20views&color=0e75b6&style=flat" alt="frank-gu-81" /> </p>
 
-- 🌱 I’m currently learning **Tensorflow, PyTorch**
-
-- 🔭 I’m currently working on [Analyzing Cryptocurrency Data](https://github.com/Frank-Gu-81/Messari_Market_Data)
-
 - 👨‍💻 Linkedin [https://www.linkedin.com/in/shaopeng-frank-gu-73b369221/](https://www.linkedin.com/in/shaopeng-frank-gu-73b369221/)
 
 - 📫 How to reach me **gushaopengfrank@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/shaopeng-frank-gu-73b369221/](https://www.linkedin.com/in/shaopeng-frank-gu-73b369221/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
